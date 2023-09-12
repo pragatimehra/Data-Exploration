@@ -1,7 +1,11 @@
--- Covid Case Study (January 2020 - April 2021)
--- Various Aspects taken into consideration: Location, Population, etc
--- Countries tackled: UK, US, EU, RU, CA, CN, IN, AU
--- Briefly worked on a larger dataset to explore Continents data
+/*
+	Covid Case Study (January 2020 - April 2021)
+
+	Countries tackled: UK, US, EU, RU, CA, CN, IN, AU
+	Briefly worked on a larger dataset to explore Continents data
+
+	Skills: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+*/
 
 
 CREATE DATABASE Porfolio_Project_1;
